@@ -29,8 +29,8 @@ ul {
         max-width: 730px;
         border-radius: 20px;
         border-radius: 5px;
-        color: rgb(219, 194, 194)
-      }  
+        background-color: coral;
+       }  
 
       .weather-temperature img {
         margin-right: 5px;
