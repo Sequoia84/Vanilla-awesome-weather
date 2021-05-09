@@ -41,3 +41,7 @@ ul {
         height: 48px;
         width: 48px;
       }
+
+      small { 
+          text-align: center;
+      }
