@@ -21,12 +21,16 @@ ul {
   }
    
   
-   
+  .weather-app-wrapper {
+    max-width: 700px;
+    margin: 30px auto;
+  }
+  
       
       .weather-app {
         padding: 15px;
         border: 1px solid #dadde1;
-        max-width: 730px;
+        max-width: 700px;
         border-radius: 20px;
         border-radius: 5px;
         background-color: coral;
