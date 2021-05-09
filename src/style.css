@@ -13,14 +13,18 @@ ul {
     padding: 0;
   }
     .weather-app-wrapper {
-        max-width: 400px;
+        max-width: 5000px;
         margin: 30px auto;
       }
       
       .weather-app {
-        padding: 20px;
+        padding: 15px;
         border: 1px solid #dadde1;
         border-radius: 5px;
       }  
 
-
+      .weather-temperature img {
+        margin-right: 5px;
+        height: 64px;
+        width: 64px;
+      }
