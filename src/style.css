@@ -33,8 +33,9 @@ ul {
         max-width: 700px;
         border-radius: 20px;
         border-radius: 5px;
-        background-color: rgb(241, 233, 224);
-       }  
+        background: (linear-gradient(123.5deg, rgb(244, 219, 251) 29.3%, rgb(255, 214, 214) 67.1%);
+        )
+
 
       .weather-temperature img {
         margin-right: 5px;
