@@ -23,7 +23,7 @@ ul {
    
   
   .weather-app-wrapper {
-    max-width: 730px;
+    max-width: 830px;
     margin: 30px auto;
   }
   
@@ -34,7 +34,7 @@ ul {
         max-width: 730px;
         border-radius: 20px;
         border-radius: 5px;
-        background-color: rgb(241, 124, 124);
+        background:-o-linear-gradient(rgb(139, 230, 139)) rgb(241, 124, 183); 
         )
 
 
