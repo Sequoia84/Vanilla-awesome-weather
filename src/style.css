@@ -38,16 +38,11 @@ ul {
         )
 
 
-      .weather-temperature img {
-        margin-right: 5px;
+      .weather-forcast {
+        margin-right: 10x;
         height: 64px;
         width: 64px;
       }
 
-      small { 
-          text-align: center;
-      }
-      .weather-forecast {
-          text-align: center;
-
-    }
+      
+    
