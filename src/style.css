@@ -23,7 +23,7 @@ ul {
    
   
   .weather-app-wrapper {
-    max-width: 700px;
+    max-width: 730px;
     margin: 30px auto;
   }
   
@@ -31,15 +31,15 @@ ul {
       .weather-app {
         padding: 15px;
         border: 1px solid #dadde1;
-        max-width: 700px;
+        max-width: 730px;
         border-radius: 20px;
         border-radius: 5px;
         background-color: rgb(241, 124, 124);
         )
 
 
-      .weather-forcast {
-        margin-right: 10x;
+      .forcast {
+        margin-right: 10px;
         height: 64px;
         width: 64px;
       }
