@@ -34,7 +34,7 @@ ul {
         max-width: 730px;
         border-radius: 20px;
         border-radius: 5px;
-        background:-o-linear-gradient(rgb(139, 230, 139)) rgb(241, 124, 183); 
+        background:linear-gradient(rgb(139, 230, 139)) rgb(241, 124, 183); 
         )
 
 
