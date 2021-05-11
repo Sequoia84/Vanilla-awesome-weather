@@ -1,11 +1,11 @@
 body {
     font-family: arial, sans-serif;
-    color: rgb(125, 45, 199);
+    color: rgb(214, 77, 100)
     
   }
 
 h1 {
-color: rgb(48, 166, 221);
+color: rgb(43, 220, 233);
 font-size: 30px;
 line-height: 18px;
 }
@@ -34,15 +34,15 @@ ul {
         max-width: 830px;
         border-radius: 20px;
         border-radius: 5px;
-        background: radial-gradient(circle at -8.9% 51.2%, rgb(226, 151, 81) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(255, 163, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
+        background: radial-gradient(circle at -8.9% 51.2%, rgb(201, 145, 113) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(255, 163, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
         
       }
 
 
       .forcast {
         margin-right: 5px;
-        height: 64px;
-        width: 64px;
+        height: 60px;
+        width: 60px;
       }
 
       
