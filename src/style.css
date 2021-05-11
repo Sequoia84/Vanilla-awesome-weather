@@ -1,13 +1,13 @@
 body {
     font-family: arial, sans-serif;
-    color: blueviolet;
+    color: rgb(125, 45, 199);
     
   }
 
 h1 {
-color: aqua;
+color: rgb(40, 189, 139);
 font-size: 30px;
-line-height: 12px;
+line-height: 18px;
 }
 
 ul {
@@ -31,16 +31,16 @@ ul {
       .weather-app {
         padding: 15px;
         border: 1px solid #dadde1;
-        max-width: 730px;
+        max-width: 830px;
         border-radius: 20px;
         border-radius: 5px;
-        background: radial-gradient(circle at -8.9% 51.2%, rgb(255, 124, 0) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(255, 163, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
+        background: radial-gradient(circle at -8.9% 51.2%, rgb(226, 151, 81) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(255, 163, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
         
       }
 
 
       .forcast {
-        margin-right: 10px;
+        margin-right: 5px;
         height: 64px;
         width: 64px;
       }
