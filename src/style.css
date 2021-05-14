@@ -1,14 +1,16 @@
 body {
     font-family: arial, sans-serif;
-    color: rgb(214, 77, 100)
+    color: rgb(72, 202, 163)
     
   }
 
 h1 {
-color: rgb(43, 220, 233);
-font-size: 30px;
-line-height: 18px;
+color: blueviolet;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font: size 36px; ;
+line-height: 20px;
 }
+
 
 ul {
     margin: 0;
