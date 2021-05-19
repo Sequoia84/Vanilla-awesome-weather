@@ -10,7 +10,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  font-size: 42px;
  font-weight: 100;
  margin: 30px;
-line-height: 20px;
+line-height: 24px;
 }
 
 
@@ -24,10 +24,6 @@ ul {
     margin: 0;
     padding: 0;
 
-    color: rgb(135, 135, 135);
-    font-size: 16px;
-    font-weight: 100;
-    line-height: 19px;
   }
   
    
@@ -48,10 +44,15 @@ ul {
       }
   .weather-temperature img {
     margin-right: 5px;
-    height: 64px;
-    width: 64px;
+    height: 48px;
+    width: 48px;
   }
-  
+  .weather-temperature strong {
+    color: rgb(172, 60, 60);
+    font-size: 64px;
+    line-height: 1;
+    font-weight: 400;
+  }
 
     .forcast {
      margin-right: 5px;
