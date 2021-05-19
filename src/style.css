@@ -7,7 +7,8 @@ body {
 h1 {
 color: blueviolet;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-font: size 36px; ;
+ font-size: 36px;
+ font-weight: 100;
 line-height: 20px;
 }
 
@@ -29,6 +30,12 @@ ul {
     margin: 20px auto;
   }
   
+  .weather-temperature strong {
+  color: rgb(33, 33, 33);
+  font-size: 64px;
+  line-height: 1;
+  font-weight: 400;
+}
       
       .weather-app {
         padding: 15px;
