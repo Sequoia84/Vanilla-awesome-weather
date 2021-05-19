@@ -32,18 +32,14 @@ ul {
   }
   
   .weather-temperature strong {
-  color: rgb(22, 228, 90);
+  color: rgb(2, 19, 7);
   font-size: 64px;
   line-height: 1;
   font-weight: 400;
   }
-  .weather-forecast-date {
-    font-size: 16px;
-    opacity: 0.5;
-  }
   
 
-}
+
 
 .weather-temperature img {
   margin-right: 5px;
