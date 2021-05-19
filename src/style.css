@@ -48,6 +48,10 @@ ul {
     height: 64px;
     width: 64px;
   }
+  .icon {
+    font-size:42px ;
+
+  }
   .weather-temperature strong {
     color: rgb(233, 123, 123);
     font-size: 42px;
