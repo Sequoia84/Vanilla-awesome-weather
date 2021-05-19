@@ -45,11 +45,11 @@ ul {
       }
   .weather-temperature img {
     margin-right: 5px;
+    font-size: larger;
     height: 64px;
     width: 64px;
   }
-  .class {
-    font-size:48px ;
+ 
 
   }
   .weather-temperature strong {
