@@ -35,15 +35,22 @@ ul {
   font-size: 64px;
   line-height: 1;
   font-weight: 400;
+
+}.weather-temperature .units {
+  position: relative;
+  font-size: 16px;
+  top: -34px;
 }
+
+
       
-      .weather-app {
-        padding: 15px;
-        border: 1px solid #dadde1;
-        max-width: 830px;
-        border-radius: 20px;
-        border-radius: 5px;
-        background: radial-gradient(circle at -8.9% 51.2%, rgb(201, 145, 113) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(255, 163, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
+    .weather-app {
+    padding: 15px;
+     border: 1px solid #dadde1;
+     max-width: 830px;
+     border-radius: 20px;
+     border-radius: 5px;
+     background: radial-gradient(circle at -8.9% 51.2%, rgb(201, 145, 113) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(255, 163, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
         
       }
 
