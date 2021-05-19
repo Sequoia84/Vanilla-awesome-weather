@@ -46,7 +46,7 @@ function formatDate(timestamp) {
           <img
             src="http://openweathermap.org/img/wn/${
               forecastDay.weather[0].icon
-            }@4x.png"
+            }@2x.png"
             alt=""
             width="42"
           />
