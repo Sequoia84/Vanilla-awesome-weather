@@ -92,7 +92,7 @@ function formatDate(timestamp) {
     dateElement.innerHTML = formatDate(response.data.dt * 1000);
     iconElement.setAttribute(
       "src",
-      `http://openweathermap.org/img/wn/${response.data.weather[0].icon}@2x.png`
+      `http://openweathermap.org/img/wn/${response.data.weather[0].icon}@4x.png`
     );
     iconElement.setAttribute("alt", response.data.weather[0].description);
   
