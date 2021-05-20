@@ -9,6 +9,7 @@ color: rgb(148, 87, 206);
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  font-size: 36px;
  font-weight: 100;
+ position: relative;
  margin: 30px;
 line-height: 24px;
 }
