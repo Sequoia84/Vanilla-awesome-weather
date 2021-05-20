@@ -5,7 +5,7 @@ body {
   }
 
 h1 {
-color: rgb(236, 83, 83);
+color: rgb(219, 124, 199);
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  font-size: 40px;
  font-weight: 100;
@@ -58,9 +58,7 @@ ul {
     width: 64px;
   }
  
-  .weather-temperature strong{
-  text-align: center;
-}
+ 
 
     .forcast {
      margin-right: 5px;
