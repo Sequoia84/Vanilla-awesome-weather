@@ -5,10 +5,10 @@ body {
   }
 
 h1 {
-color: rgb(77, 20, 85);
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  font-size: 40px;
  font-weight: 100;
+ color: rgb(212, 143, 212);
 line-height: 24px;
 margin-bottom: 20px;
 
