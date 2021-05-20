@@ -5,12 +5,12 @@ body {
   }
 
 h1 {
-color: rgb(98, 149, 214);
+color: rgb(235, 88, 88);
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  font-size: 40px;
  font-weight: 100;
- position: fixed;
 line-height: 24px;
+text-align: center;
 }
 
 
@@ -23,10 +23,11 @@ ul {
     list-style: none;
     margin: 0;
     padding: 0;
+    text-align: center;
   
   
 
-  color: rgb(202, 37, 51);
+  color: rgb(75, 131, 235);
   font-size: 16px;
   font-weight: 100;
   line-height: 15px;
